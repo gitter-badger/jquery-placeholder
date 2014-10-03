@@ -1,4 +1,5 @@
 # HTML5 Placeholder jQuery Plugin
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ksprwhite/jquery-placeholder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Demo & Examples
 
